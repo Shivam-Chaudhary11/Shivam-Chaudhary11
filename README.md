@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam-Chaudhary
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Frontend Development from Coding Invaders
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sc997196@gmail.com
 
